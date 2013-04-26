@@ -1,0 +1,24 @@
+{
+	"installed_packages":
+	[
+		"ColorPicker",
+		"Compass",
+		"Emmet",
+		"Git",
+		"Github Tools",
+		"jQuery",
+		"jQuery Snippets pack",
+		"JSLint",
+		"JsMinifier",
+		"Package Control",
+		"Sass",
+		"Search WordPress Codex",
+		"SFTP",
+		"SideBarEnhancements",
+		"Wordpress"
+	],
+	"repositories":
+	[
+		"https://sublime.wbond.net/testing/packages.json"
+	]
+}
