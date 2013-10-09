@@ -1,6 +1,9 @@
 {
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"AdvancedNewFile",
+		"Autoprefixer",
 		"ColorPicker",
 		"Compass",
 		"Emmet",
@@ -8,13 +11,12 @@
 		"Github Tools",
 		"jQuery",
 		"jQuery Snippets pack",
-		"JSLint",
-		"JsMinifier",
 		"Package Control",
 		"Sass",
 		"Search WordPress Codex",
 		"SFTP",
 		"SideBarEnhancements",
+		"Simple Print Function",
 		"sublime-csspecific",
 		"Wordpress"
 	],
