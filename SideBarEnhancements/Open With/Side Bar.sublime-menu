@@ -21,6 +21,22 @@
 
 			//application 2
 			{
+				"caption": "Illustrator",
+				"id": "side-bar-files-open-with-illustrator",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "~/Applications/Adobe Illustrator CC/Adobe Photoshop CC.app", // OSX
+									"extensions":"svg|ai|eps"  //any file with these extensions
+								}
+			},
+
+			//separator
+			{"caption":"-"},
+
+			//application 3
+			{
 				"caption": "SeaMonkey",
 				"id": "side-bar-files-open-with-seamonkey",
 
