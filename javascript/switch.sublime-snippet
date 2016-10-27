@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+switch(${1:arg}){
+	case '${2:value}':
+	${3://body}
+	break;
+	case '':
+	// body
+	break;
+	default:
+	break;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>switch</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

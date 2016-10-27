@@ -1,0 +1,53 @@
+[
+	{"id": "side-bar-files-open-with",
+		"children":
+		[
+
+			//application 1
+			{
+				"caption": "Photoshop",
+				"id": "side-bar-files-open-with-photoshop",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "~/Applications/Adobe Photoshop CS6/Adobe Photoshop CS6.app", // OSX
+									"extensions":"psd|png|jpg|jpeg"  //any file with these extensions
+								}
+			},
+
+			//separator
+			{"caption":"-"},
+
+			//application 2
+			{
+				"caption": "Illustrator",
+				"id": "side-bar-files-open-with-illustrator",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "~/Applications/Adobe Illustrator CC 2014/Adobe Photoshop CC 2014.app", // OSX
+									"extensions":"svg|ai|eps"  //any file with these extensions
+								}
+			},
+
+			//separator
+			{"caption":"-"},
+
+			//application 3
+			{
+				"caption": "Inkskape",
+				"id": "side-bar-files-open-with-inkscape",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "~/Applications/Inkskape.app", 
+									"extensions":"svg" //open all even folders
+								}
+			}
+
+		]
+	}
+]

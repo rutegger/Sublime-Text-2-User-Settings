@@ -1,0 +1,41 @@
+{
+	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AngularJS",
+		"Autoprefixer",
+		"ColorPick",
+		"ColorPicker",
+		"Compass",
+		"Drupal",
+		"Emmet",
+		"Git",
+		"Github Tools",
+		"Jade",
+		"jQuery",
+		"jQuery Snippets pack",
+		"JSONLint",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SASS Snippets",
+		"Search WordPress Codex",
+		"SFTP",
+		"SideBarEnhancements",
+		"Simple Print Function",
+		"sublime-csspecific",
+		"TypeScript",
+		"TypeScript Compiler",
+		"TypescriptCompletion",
+		"WordPress"
+	],
+	"repositories":
+	[
+		"https://sublime.wbond.net/testing/packages.json"
+	]
+}
